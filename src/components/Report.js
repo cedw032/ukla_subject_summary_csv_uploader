@@ -72,7 +72,7 @@ function ReportHeaderRight({sid, studentYear, teacher1, teacher2}) {
 				<Cell><span>{teacher1}</span></Cell>
 			</div>
 			<div className='row'>
-				<Cell><span>Deen-ul-Islām Teacher</span></Cell>
+				<Cell><span>Islāmiat Teacher</span></Cell>
 				<Cell><span>{teacher2}</span></Cell>
 			</div>
 		</div>
